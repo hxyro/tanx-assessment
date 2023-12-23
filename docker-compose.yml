@@ -1,0 +1,13 @@
+version: '3.9'
+
+services:
+  task:
+    container_name: task
+    build: .
+    command: python task.py
+
+  test:
+    container_name: test
+    build: .
+    command: python -m unittest test
+
