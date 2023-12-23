@@ -2,7 +2,7 @@
 
 - [`task.py`](./task.py): This file contains all the task-related code.
 - [`test.py`](./test.py): This file contains all the test cases.
-- [`orders.csv`](./orders.py): This file contains the dataset. | [Google Sheets](https://docs.google.com/spreadsheets/d/1cVe7fjC4fWmSQCKhS3TYYkWYNYNFx-FVSHikLMP2UlI/edit?usp=sharing)
+- [`orders.csv`](./orders.csv): This file contains the dataset. | [Google Sheets](https://docs.google.com/spreadsheets/d/1cVe7fjC4fWmSQCKhS3TYYkWYNYNFx-FVSHikLMP2UlI/edit?usp=sharing)
 
 ## Clone the repositery
 ```
